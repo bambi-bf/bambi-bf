@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- Solana web3 and smart contract leader dev
 <!--
 **bambi-bf/bambi-bf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
