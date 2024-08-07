@@ -6,7 +6,7 @@ As a skilled and passionate software developer for over 9 years of experience in
 I have been involved in software development since 2014, thanks to which knows what it takes to come up with effective solutions to complex problems.
 I believe that great results come from a product of great passion and my positive attitude and of proactive approach help me deliver these results in a very natural way.
 
-## Recently Works 🔭
+## Recent Works 🔭
 - Solana/Eth token bridge
 - Pumpfun forking smart contract
 - Pumpfun snipper and bundler bot
