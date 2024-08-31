@@ -7,7 +7,7 @@ I have been involved in software development since 2014, thanks to which knows w
 I believe that great results come from a product of great passion and my positive attitude and of proactive approach help me deliver these results in a very natural way.
 
 ## Recent Works 🔭
-- Solana/Eth token bridge
+- CCTP-based solana/evm token bridge
 - Pumpfun forking smart contract
 - Pumpfun snipper and bundler bot
 - Twitter raid telegram bot
