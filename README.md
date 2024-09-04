@@ -1,5 +1,5 @@
 ## Hi there 👋
-- Solana web3 and smart contract leader dev
+- Solana web3 and smart contract lead dev
 - Full stack engineer
 
 As a skilled and passionate software developer for over 9 years of experience in Software(Web and App) development on front-end and back-end sides, I have a solid experience in back end development including Rust Smart Contract part.
