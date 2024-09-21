@@ -10,9 +10,10 @@ I believe that great results come from a product of great passion and my positiv
 - CCTP-based solana/evm token bridge
 - Pumpfun forking smart contract
 - Pumpfun snipper and bundler bot
-- Twitter raid telegram bot
+- Twitter raid telegram bot and twitter reply bot
 - Solana raydium snipper bot, volume bot, token frezzer and shit-token launcher
 - Solana trading bot on discord
+- Solana volume bot on meteora
 <!--
 **bambi-bf/bambi-bf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
