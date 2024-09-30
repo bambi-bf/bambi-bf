@@ -7,7 +7,7 @@ I have been involved in software development since 2014, thanks to which knows w
 I believe that great results come from a product of great passion and my positive attitude and of proactive approach help me deliver these results in a very natural way.
 
 ## Recent Works 🔭
-- Meteora dlmm and dyn volume bot, maker bot
+- Meteora DLMM and DYN volume bot, maker bot
 - CCTP-based solana/evm token bridge
 - Pumpfun forking smart contract
 - Pumpfun snipper and bundler bot
