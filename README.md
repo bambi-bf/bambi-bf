@@ -7,13 +7,13 @@ I have been involved in software development since 2014, thanks to which knows w
 I believe that great results come from a product of great passion and my positive attitude and of proactive approach help me deliver these results in a very natural way.
 
 ## Recent Works 🔭
+- Meteora dlmm and dyn volume bot, maker bot
 - CCTP-based solana/evm token bridge
 - Pumpfun forking smart contract
 - Pumpfun snipper and bundler bot
 - Twitter raid telegram bot and twitter reply bot
 - Solana raydium snipper bot, volume bot, token frezzer and shit-token launcher
-- Solana trading bot on discord
-- Solana volume bot on meteora
+- Solana volume bot on raydium, moonshot and pumpfun
 <!--
 **bambi-bf/bambi-bf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
