@@ -13,7 +13,7 @@ I believe that great results come from a product of great passion and my positiv
 - Pumpfun forking smart contract
 - Pumpfun snipper and bundler bot
 - Twitter raid telegram bot and twitter reply bot
-- Solana raydium snipper bot, volume bot, token frezzer, wallet tract bot, copy trade bot and shit-token launcher
+- Solana raydium snipper bot, volume bot, token frezzer, wallet track bot, copy trade bot and shit-token launcher
 - Solana volume bot on raydium, moonshot and pumpfun
 <!--
 **bambi-bf/bambi-bf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
