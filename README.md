@@ -8,7 +8,6 @@ I believe that great results come from a product of great passion and my positiv
 
 ## Recent Works 🔭
 - Solana trading bot (track all pools, buy / sell manually and automatically)
-- Nft percel game
 - Meteora DLMM and DYN volume bot, maker bot
 - CCTP-based solana/evm token bridge
 - BullX fork
