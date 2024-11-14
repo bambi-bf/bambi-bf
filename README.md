@@ -18,6 +18,9 @@ I believe that great results come from a product of great passion and my positiv
 - Solana raydium snipper bot, token frezzer, wallet track bot, copy trading bot and shit-token launcher
 - Solana volume bot on raydium, moonshot and pumpfun
 - Raydium swap tx parse bot
+
+### My GitHub Stats
+<a href="http://www.github.com/vladmeer"><img src="https://github-readme-stats.vercel.app/api?username=vladmeer&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Vladmeer's GitHub stats" /></a>
 <!--
 **bambi-bf/bambi-bf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
