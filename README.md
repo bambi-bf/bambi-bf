@@ -7,6 +7,8 @@ I have been involved in software development since 2014, thanks to which knows w
 I believe that great results come from a product of great passion and my positive attitude and of proactive approach help me deliver these results in a very natural way.
 
 ## Recent Works 🔭
+- Solana trading bot (track all pools, buy / sell manually and automatically)
+- Nft percel game
 - Meteora DLMM and DYN volume bot, maker bot
 - CCTP-based solana/evm token bridge
 - BullX fork
@@ -15,6 +17,7 @@ I believe that great results come from a product of great passion and my positiv
 - Twitter raid telegram bot and twitter reply bot
 - Solana raydium snipper bot, token frezzer, wallet track bot, copy trading bot and shit-token launcher
 - Solana volume bot on raydium, moonshot and pumpfun
+- Raydium swap tx parse bot
 <!--
 **bambi-bf/bambi-bf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
