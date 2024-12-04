@@ -10,15 +10,16 @@ I have been involved in software development since 2014, thanks to which knows w
 I believe that great results come from a product of great passion and my positive attitude and of proactive approach help me deliver these results in a very natural way.
 
 ## Recent Works 🔭
-- Solana trading bot (track all pools, buy / sell manually and automatically)
+- Solana trading bot (track all pools, buy / sell manually and automatically) - works on telegram
+- Raydium volume bot, bundler and sniper
 - Meteora DLMM and DYN volume bot, maker bot
 - CCTP-based solana/evm token bridge
 - BullX fork
 - Pumpfun forking smart contract
 - Pumpfun snipper and bundler bot
 - Twitter raid telegram bot and twitter reply bot
-- Solana raydium snipper bot, token frezzer, wallet track bot, copy trading bot and shit-token launcher
-- Solana volume bot on raydium, moonshot and pumpfun
+- Solana token frezzer, wallet track bot and shit-token launcher
+- Solana volume bot on moonshot and pumpfun
 - Raydium swap tx parse bot
 - Copy trading bot
 
